@@ -1,5 +1,5 @@
 # Coffee Dataset Analysis Dashboard using Mirosoft Excel-</br>
-* Dataset-https://github.com/tanjotveer-98/Advanced_Excel_Project/blob/777bb93a00551d3468a00b178cd74fb02481021b/coffeeDataset.xlsx
+* Dataset-</br>https://github.com/tanjotveer-98/Advanced_Excel_Project/blob/777bb93a00551d3468a00b178cd74fb02481021b/coffeeDataset.xlsx
 * Tools- MS Excel 2019. </br></br>
 <p>The given dataset file contains three worksheets- </p>
  <ol><li> Customers- ID, name, email, phone number,address, city, country, postal code, loyalty Card.</li>
@@ -39,6 +39,6 @@ For instance, =VLOOKUP(C95,customers!$A$2:$B$1001,2,FALSE) </li>
 
 ## Creating the final dashboard.
  <p> All the charts were copied to a new worksheets and all charts were connected using "Report Connections" feature to the timeline and the slicers. Following image shows the final result.</p>
- <img src= "https://github.com/user-attachments/assets/7e2a3033-a7db-43c5-a96e-a24f2e0377c5" width= 400 height= 400>
+ <img src= "https://github.com/user-attachments/assets/7e2a3033-a7db-43c5-a96e-a24f2e0377c5">
 
 
