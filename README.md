@@ -29,11 +29,11 @@ For instance, =VLOOKUP(C95,customers!$A$2:$B$1001,2,FALSE) </li>
 <img src= "https://github.com/user-attachments/assets/2b9966bf-aa33-4499-b1e1-4cf120fd4cb5" height= 350 width= 700>
 </li>
  <li> The second pivot table is to analyze the sales of coffee products by country and visualize using bar chart. Following images shows the pivot table and the chart created from the aggregated data.</br>
- <img src= "https://github.com/user-attachments/assets/f905f219-ca0a-43dc-8cd0-d1490b5d7e8a" height= 350 width= 450> </br> </br>
+ <img src= "https://github.com/user-attachments/assets/f905f219-ca0a-43dc-8cd0-d1490b5d7e8a" height= 350 width=600> </br> </br>
  </li>
  <li>
   The third pivot table is to analyze the sales of coffee by customers and display top 5 customers using bar chart. Following images shows the pivot table and the chart created from the aggregated data.</br>
- <img src="https://github.com/user-attachments/assets/07eb5928-6113-4553-b171-822da0742f13" height= 350 width= 450>
+ <img src="https://github.com/user-attachments/assets/07eb5928-6113-4553-b171-822da0742f13" height= 350 width= 600>
  </li>
 </ol>
 
